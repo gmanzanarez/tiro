@@ -1,0 +1,3 @@
+BASE_PATH = "/Users/" # Add in the path to the main directory of the repo here
+
+CONNECTION_STRING = 'sqlite:///template.db' # Set the path for the local database
